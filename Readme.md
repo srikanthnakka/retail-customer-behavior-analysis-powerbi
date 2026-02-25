@@ -1,9 +1,9 @@
-# 🛍 Retail Customer Behavior Analysis  
+# Retail Customer Behavior Analysis  
 ### End-to-End Power BI Business Intelligence Project
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes retail customer shopping behavior to uncover:
 
@@ -18,7 +18,7 @@ The dashboard provides executive-level insights through interactive visualizatio
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 A retail company observed changing purchasing behavior across:
 
@@ -37,7 +37,7 @@ Management wanted to determine:
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - Power BI Desktop  
 - Power Query (Data Cleaning & Transformation)  
@@ -48,11 +48,11 @@ Management wanted to determine:
 
 ---
 
-# 📊 Dashboard Structure
+#  Dashboard Structure
 
 ---
 
-## 🔹 Page 1 – Executive Overview
+##  Page 1 – Executive Overview
 
 **Key KPIs:**
 
@@ -69,7 +69,7 @@ Management wanted to determine:
 
 ---
 
-## 🔹 Page 2 – Customer Segments & Value
+##  Page 2 – Customer Segments & Value
 
 ### Analysis Includes:
 - Revenue by Age Segment
@@ -84,7 +84,7 @@ Management wanted to determine:
 
 ---
 
-## 🔹 Page 3 – Purchase Drivers & Behavioral Impact
+##  Page 3 – Purchase Drivers & Behavioral Impact
 
 ### Analysis Includes:
 - Revenue by Discount Applied
@@ -99,7 +99,7 @@ Management wanted to determine:
 
 ---
 
-## 🔹 Page 4 – Strategic Growth & Retention
+##  Page 4 – Strategic Growth & Retention
 
 ### Analysis Includes:
 - Revenue by Customer Value Tier
@@ -114,7 +114,7 @@ Management wanted to determine:
 
 ---
 
-## 🔹 Page 5 – Business Recommendations
+##  Page 5 – Business Recommendations
 
 - Shift from broad discounting to targeted engagement.
 - Protect high-value customers through retention programs.
@@ -124,7 +124,7 @@ Management wanted to determine:
 
 ---
 
-# 🧠 Key DAX Measures Implemented
+#  Key DAX Measures Implemented
 
 - Repeat Purchase Rate  
 - Customer Value Tier Classification  
@@ -135,10 +135,7 @@ Management wanted to determine:
 
 ---
 
-
----
-
-# 🚀 How to Use
+#  How to Use
 
 1. Download the `.pbix` file.
 2. Open in Power BI Desktop.
@@ -147,7 +144,7 @@ Management wanted to determine:
 
 ---
 
-# 📈 Business Value Delivered
+#  Business Value Delivered
 
 ✔ Customer segmentation strategy  
 ✔ Revenue optimization insights  
@@ -157,7 +154,7 @@ Management wanted to determine:
 
 ---
 
-# 👤 Author
+# Author
 
 **Nakka Srikanth**  
 B.Tech – Computer Science  
