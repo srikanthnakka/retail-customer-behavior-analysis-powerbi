@@ -1,184 +1,167 @@
-Retail Customer Behavior Analysis
-End-to-End Business Intelligence Project | Power BI
-📌 Project Summary
+# 🛍 Retail Customer Behavior Analysis  
+### End-to-End Power BI Business Intelligence Project
 
-This project analyzes retail customer shopping behavior to identify key revenue drivers, loyalty trends, discount effectiveness, and retention risks.
+---
 
-The objective is to help business stakeholders:
+## 📌 Project Overview
 
-Improve customer retention
+This project analyzes retail customer shopping behavior to uncover:
 
-Optimize promotional strategies
+- Revenue drivers  
+- Loyalty patterns  
+- Discount effectiveness  
+- Customer segmentation  
+- Retention risk indicators  
+- Strategic growth opportunities  
 
-Increase customer lifetime value
+The dashboard provides executive-level insights through interactive visualizations built in Power BI.
 
-Strengthen revenue stability
+---
 
-This is a complete end-to-end Power BI solution including data transformation, DAX modeling, segmentation, and executive storytelling.
-
-🎯 Business Problem
+## 🎯 Business Problem
 
 A retail company observed changing purchasing behavior across:
 
-Age groups
+- Age groups  
+- Product categories  
+- Sales channels (Online vs Offline)  
+- Discount usage  
+- Customer value tiers  
 
-Product categories
+Management wanted to determine:
 
-Sales channels (Online vs Offline)
+- Do discounts improve customer loyalty?
+- Which customer segments generate the most revenue?
+- Who is at risk of churn?
+- What truly drives repeat purchases?
 
-Discount usage
+---
 
-Customer value tiers
+## 🛠 Tools & Technologies Used
 
-Management wanted to understand:
+- Power BI Desktop  
+- Power Query (Data Cleaning & Transformation)  
+- DAX (Advanced Measures & Customer Segmentation)  
+- Data Modeling  
+- Custom JSON Theme  
+- KPI Design & Executive Reporting  
 
-Do discounts improve loyalty?
+---
 
-Which customers generate the highest revenue?
+# 📊 Dashboard Structure
 
-Who is at risk of churn?
+---
 
-What truly drives repeat purchases?
+## 🔹 Page 1 – Executive Overview
 
-🛠 Tools & Technologies Used
+**Key KPIs:**
 
-Power BI Desktop
+- Total Sales: **$233K**
+- Total Transactions: **3.9K**
+- Unique Customers: **3.9K**
+- Average Order Value: **$59.76**
+- Repeat Purchase Rate: **55.92%**
 
-Power Query (ETL & Data Cleaning)
+### Key Insights:
+- Online channel contributes majority of revenue.
+- Discounts have minimal impact on repeat purchase rate.
+- High revenue categories do not always show strongest loyalty.
 
-DAX (Advanced Calculated Measures)
+---
 
-Data Modeling
+## 🔹 Page 2 – Customer Segments & Value
 
-Customer Segmentation Logic
+### Analysis Includes:
+- Revenue by Age Segment
+- Repeat Purchase Rate by Age
+- High-Frequency Customer Share
+- Discount Impact by Age Segment
 
-Custom JSON Theme Design
+### Insights:
+- 26–35 age group drives the highest revenue.
+- 46+ segment shows strong high-frequency behavior.
+- Discount impact on average order value appears limited.
 
-📊 Dashboard Overview
-🔹 Page 1 – Executive Overview
+---
 
-KPIs:
+## 🔹 Page 3 – Purchase Drivers & Behavioral Impact
 
-Total Sales: $233K
+### Analysis Includes:
+- Revenue by Discount Applied
+- Loyalty by Payment Method
+- Customer Ratings vs Spending Behavior
+- Seasonal Revenue Trends
 
-Total Transactions: 3.9K
+### Insights:
+- Revenue is not strongly discount-driven.
+- Loyalty remains consistent across payment methods.
+- Seasonal patterns influence revenue more than promotional strategies.
 
-Unique Customers: 3.9K
+---
 
-Average Order Value: $59.76
+## 🔹 Page 4 – Strategic Growth & Retention
 
-Repeat Purchase Rate: 55.92%
+### Analysis Includes:
+- Revenue by Customer Value Tier
+- Loyalty Strength Across Tiers
+- High-Value Customer Distribution
+- At-Risk Customer Identification
 
-Key Insights:
+### Insights:
+- High-value customers contribute disproportionately to revenue.
+- Approximately 1.7K customers are identified as retention risk.
+- Mature age segments show strong high-value concentration.
 
-Online channel contributes majority of revenue.
+---
 
-Discounts show minimal influence on repeat purchase rate.
+## 🔹 Page 5 – Business Recommendations
 
-High revenue categories do not always have strongest loyalty.
+- Shift from broad discounting to targeted engagement.
+- Protect high-value customers through retention programs.
+- Focus on reducing churn in vulnerable segments.
+- Optimize seasonal product strategies.
+- Increase cross-selling opportunities within categories.
 
-🔹 Page 2 – Customer Segments & Value
-Analysis Includes:
+---
 
-Revenue by Age Group
+# 🧠 Key DAX Measures Implemented
 
-Repeat Purchase Rate by Age
+- Repeat Purchase Rate  
+- Customer Value Tier Classification  
+- High-Frequency Customer Detection  
+- At-Risk Customer Identification  
+- Discount Impact Analysis  
+- Average Purchase Interval  
 
-High-Frequency Customer Share
+---
 
-Discount Impact by Age Segment
 
-Insights:
+---
 
-26–35 drives highest revenue.
+# 🚀 How to Use
 
-46+ segment shows strong high-frequency behavior.
+1. Download the `.pbix` file.
+2. Open in Power BI Desktop.
+3. Use slicers to interact with data segments.
+4. Navigate through all dashboard pages for complete analysis.
 
-Discount impact on order value is limited.
+---
 
-🔹 Page 3 – Purchase Drivers & Behavioral Impact
-Analysis Includes:
+# 📈 Business Value Delivered
 
-Revenue by Discount Applied
+✔ Customer segmentation strategy  
+✔ Revenue optimization insights  
+✔ Retention risk detection  
+✔ Promotion effectiveness evaluation  
+✔ Executive-level KPI monitoring  
 
-Loyalty by Payment Method
+---
 
-Ratings vs Spending Behavior
+# 👤 Author
 
-Seasonal Revenue Trends
+**Nakka Srikanth**  
+B.Tech – Computer Science  
+Certified Data Science Specialist  
+Aspiring Data Analyst | Business Intelligence Developer  
 
-Insights:
-
-Revenue performance is not discount-dependent.
-
-Loyalty remains consistent across payment methods.
-
-Seasonal trends influence revenue more than promotions.
-
-🔹 Page 4 – Strategic Growth & Retention
-Analysis Includes:
-
-Revenue by Customer Value Tier
-
-Loyalty Strength Across Tiers
-
-High-Value Distribution by Age
-
-At-Risk Customer Identification
-
-Category-Level Opportunities
-
-Insights:
-
-High-value customers generate disproportionate revenue.
-
-~1.7K customers identified as retention risk.
-
-Mature age segments (46+) show strong high-value concentration.
-
-🔹 Page 5 – Business Recommendations
-
-Shift from broad discounting to targeted engagement.
-
-Protect high-value customers with retention programs.
-
-Focus on seasonal optimization instead of heavy promotions.
-
-Reduce churn through personalized communication.
-
-🧠 Key DAX Measures Implemented
-
-Repeat Purchase Rate
-
-Customer Value Tier Classification
-
-High-Frequency Customer Detection
-
-At-Risk Customer Identification
-
-Discount Impact Analysis
-
-Average Purchase Interval
-
-🚀 How to Use This Project
-
-Download the .pbix file.
-
-Open in Power BI Desktop.
-
-Apply the custom theme (optional).
-
-Explore slicers and interactive visuals.
-
-📈 Business Value Delivered
-
-✔ Customer segmentation strategy
-✔ Revenue optimization insights
-✔ Retention risk identification
-✔ Promotion efficiency evaluation
-✔ Executive-level KPI reporting
-
-Nakka Srikanth
-B.Tech – Computer Science
-Certified Data Science Specialist
-Aspiring Data Analyst | Business Intelligence Developer
+---
